@@ -3,7 +3,7 @@
 알고리즘 공부
 
 ##backjoon
-<table>
+<table style="width:300px">
     <thead>
         <tr>
             <th>no.</th>
